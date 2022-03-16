@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="words">words</string>
+    <string name="nextTurn">Next Turn</string>
+    <string name="reset">Reset</string>
+    <string name="nextQuestion">Next Question</string>
+    <string name="Start">Start</string>
+    <string name="Answer">Answer</string>
+</resources>
